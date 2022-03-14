@@ -69,7 +69,12 @@ _5.6.3_
 
 
 
-### Individual Data Structures Project
+### Individual Data Structures [Python Menu Replit](https://replit.com/join/joleelmawp-aadyanjalidaita)
+*click on the link above to be directed to the replit, which is containing the code (too long to paste here). below are screenshots of the menu.*
+![image](https://user-images.githubusercontent.com/89221238/158101436-ed2e4fd7-4711-485f-b7ff-1c7e39113e9d.png)
+![image](https://user-images.githubusercontent.com/89221238/158101477-e6d3620d-09a7-4f9a-abe7-87a44695b13e.png)
+
+
 
 
 
