@@ -1,5 +1,5 @@
 ## Welcome to Aadya's GitHub Page
-
+### [WEEK 0 REVIEW TICKET](https://github.com/AadyaDaita/indiv_repo/issues/1)
 ### 5.1-5.6 TPT Notes
 **Beneficial and Harmful Effects (5.1)**
 
