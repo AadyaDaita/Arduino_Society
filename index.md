@@ -12,7 +12,3 @@
 
 
 
-
- `Code` text
-
-![Image](src)
