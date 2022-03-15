@@ -2,6 +2,7 @@
 
 ### Individual Data Structures [Python Menu Replit](https://replit.com/join/qcbdtnbsgl-aadyanjalidaita)
 *click on the link above to be directed to the replit, which is containing the code (too long to paste here). below are screenshots of the menu.*
-![image](https://user-images.githubusercontent.com/89221238/158238642-bd0eee4a-ea6e-4fb3-8cfa-c62884a1b1e3.png)
-![image](https://user-images.githubusercontent.com/89221238/158101477-e6d3620d-09a7-4f9a-abe7-87a44695b13e.png)
 
+![image](https://user-images.githubusercontent.com/89221238/158467347-98ba8c70-03a2-48ad-883d-8244814cefbf.png)
+![image](https://user-images.githubusercontent.com/89221238/158467510-7064a527-d45d-4650-a2c7-0ef6c025c210.png)
+![image](https://user-images.githubusercontent.com/89221238/158467675-43baac39-791a-442f-af4f-8ce941ece28c.png)
