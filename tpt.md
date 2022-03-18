@@ -30,6 +30,21 @@ _TPT 0.2_
 - Computing innovations can reflect existing human biases written into the algorithm or biases in the data used by the innovation. 
 - Programmers should take action to reduce bias in algorithms used for computing innovation (if they really deserve it) as a way of combating existing human biases.  
 
+_TPT Computer Bias_
+- Does the owner of the computer think this was intentional?
+  - No, I do not think that the owner of purposfully made a device that doens't recognize certain individuals. 
+- If yes or no, justify you conclusion.
+  - This was not on purpose, as sellers want to increase profit, they would want to sell to all types of people. Thus, there is no reason for them to exclude some types of people with facial recognition. 
+- How do you think this happened?
+  - The creators must have been a team of white people, where they weren't able to test with all types of people. This might have caused unnecessary bias, as proper trials weren't being held.  
+- Is this harmful? Was it intended to be harmful or exclude?
+  - This is harmful, as it reduced representation of all ethnicities around the world. It creates bias to how other people around the world view certain ethnicities. Thus it is not intended, however purposeful exclusion of races does exist. 
+- Should it be corrected?
+  Yes it should be avoided. As said, this creats bias in people, and causes some people of the world to be excluded into results. In medical related resources, when there is bias in devices, it is extremely dangerous, as vital healthcare resources for them can be disregared. 
+- What would you or should you do to produce a better outcome?
+  - To improve this, I can be part of testing trials for new devices released, and encourage others to also be part of them as well. This can reduce coomputer bias, as representation increases. 
+
+
 **Crowdsourcing (5.4)**
 - Science has been affected by using distributed and “citizen science” to solve scientific problems. 
 - Citizen science is the scientific research conducted in a whole or part by distributed individuals, many of whom may not be scientists. Who contribute relevant data to research using their own computing devices. 
