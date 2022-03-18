@@ -52,7 +52,7 @@ _TPT Computer Bias_
 - Crowdsourcing- the practice of obtaining information or input into a task or project by enlisting the services of a large number of people, either paid or unpaid, typically via the internet.
 - Offer new models for collaboration, such as connecting businesses or social causes with funding. 
 
-_TPT Croudsourcing_
+_TPT Crowdsourcing_
 - CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?
   - An idea I had on where Del Norte is able to create a collaboration network, where all students can get inpiriation from each other: have a place where all the past CSP and CSA students can post their projects. This will be beneficial to many beginner coders, or anyone that might need help getting started. Additonally, it can be a place where everyone can fork the project, like in github, to perhaps add to it, creating a collaborating environment and increasing crowdsourcing. 
 - What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?
