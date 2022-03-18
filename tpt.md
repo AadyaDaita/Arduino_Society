@@ -36,11 +36,11 @@ _TPT Computer Bias_
 - If yes or no, justify you conclusion.
   - This was not on purpose, as sellers want to increase profit, they would want to sell to all types of people. Thus, there is no reason for them to exclude some types of people with facial recognition. 
 - How do you think this happened?
-  - The creators must have been a team of white people, where they weren't able to test with all types of people. This might have caused unnecessary bias, as proper trials weren't being held.  
+  - The creators must have been a team of white people, where they weren't able to test with all types of people. This might have caused unnecessary bias, as proper trials weren't being held. Possibily, a lot about people of other reaces is not known, so this might have reduced representation. 
 - Is this harmful? Was it intended to be harmful or exclude?
-  - This is harmful, as it reduced representation of all ethnicities around the world. It creates bias to how other people around the world view certain ethnicities. Thus it is not intended, however purposeful exclusion of races does exist. 
+  - This is harmful, as it reduced representation of all ethnicities around the world. It creates bias to how other people around the world view certain ethnicities. Thus it is not intended, as it wouldn;t logically make sense for HP to be racist to certain types of people. This would solely reduce the number of people buying their product. However purposeful exclusion of races does exist. 
 - Should it be corrected?
-  Yes it should be avoided. As said, this creats bias in people, and causes some people of the world to be excluded into results. In medical related resources, when there is bias in devices, it is extremely dangerous, as vital healthcare resources for them can be disregared. 
+  Yes it should be avoided. As said, this creats bias in people, and causes some people of the world to be excluded into results. For example, in medical related resources, when there is bias in devices, it is extremely dangerous, as vital healthcare resources for them can be disregared. 
 - What would you or should you do to produce a better outcome?
   - To improve this, I can be part of testing trials for new devices released, and encourage others to also be part of them as well. This can reduce coomputer bias, as representation increases. 
 
@@ -51,6 +51,13 @@ _TPT Computer Bias_
 - Human capabilities can be enhanced by collaboration via computing. 
 - Crowdsourcing- the practice of obtaining information or input into a task or project by enlisting the services of a large number of people, either paid or unpaid, typically via the internet.
 - Offer new models for collaboration, such as connecting businesses or social causes with funding. 
+
+_TPT Croudsourcing_
+- CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?
+  - An idea I had on where Del Norte is able to create a collaboration network, where all students can get inpiriation from each other: have a place where all the past CSP and CSA students can post their projects. This will be beneficial to many beginner coders, or anyone that might need help getting started. Additonally, it can be a place where everyone can fork the project, like in github, to perhaps add to it, creating a collaborating environment and increasing crowdsourcing. 
+- What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?
+  - I have had multiple experiences with Del Norte involved in crowdsourcing. For example, many of the AP Stat students go from class to class, usually all different types of clases to account for all the different type of people, to get information about a topic. This type of data collection includes all the different types of people on the campus, increasing representation. Additonally, students from ASB collect information from students around the campus about different types of topics for DNN news. For our final project, we decided to have a website, where one can use it to get information about Del Norte during an emergency. The website will include all the safe paths on campus during a disaster, attendance for all students and more. Our site would be better with crowdsourcing, as in the case of an emergency, it is vital that all students and teachers from Del Norte know how to use it, and be prepared. Our end goal is to have this website implemented in all schools in our district, as we believe it will be very useful. For this, we need as many people possible to help, contribute, and provide their inputs.
+
 
 **Legal and Ethical Concerns (5.5)**
 - Copy right protects intellectual property unless you allow it. 
