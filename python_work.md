@@ -5,7 +5,7 @@
 
 ### WEEK 1
 ![image](https://user-images.githubusercontent.com/89221238/159208018-28f6987f-7bc2-46e7-8363-7dd856bf033b.png)
-![image](https://user-images.githubusercontent.com/89221238/159337432-1b10659b-b9a6-4aba-b33c-90b20ff2b719.png)
+![image](https://user-images.githubusercontent.com/89221238/159337793-d131e109-61dc-4b24-b455-1715cf168d04.png)
 
 ### WEEK 0
 ![image](https://user-images.githubusercontent.com/89221238/158467347-98ba8c70-03a2-48ad-883d-8244814cefbf.png)
