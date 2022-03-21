@@ -6,21 +6,23 @@
 # Two styles are supported to execute abstracted logic
 # 1. file names will be run by exec(open("filename.py").read())
 # 2. function references will be executed directly file.function()
+from subprocess import call
+
 main_menu = []
 
 # Submenu list of [Prompt, Action]
 # Works similarly to main_menu
 sub_menu1 = [
-    ["Swap", "python_menu_challenges/swap.py"],
-    ["Keypad", "python_menu_challenges/keypad.py"],
-    ["Christmas", "python_menu_challenges/christmastree.py"],
-    ["Ship", "python_menu_challenges/ship.py"]
+    ["Swap", "python_menu_challenges/week_0/swap.py"],
+    ["Keypad", "python_menu_challenges/week_0/keypad.py"],
+    ["Christmas", "python_menu_challenges/week_0/christmastree.py"],
+    ["Ship", "python_menu_challenges/week_0/ship.py"]
 ]
 
 sub_menu2 = [
-    ["Ice Cream", "python_menu_challenges/icecream.py"],
-  
-]
+    ["Lists", "python_menu_challenges/week_1/lists_and_loops.py"],
+    ["Fibonacci", "python_menu_challenges/week_1/fibonacci.py"]
+  ]
 # Menu banner is typically defined by menu owner
 border = "=" * 25
 banner = f"\n{border}\nplease pick one\n{border}"
@@ -58,22 +60,38 @@ def buildMenu(banner, options):
         print(key, '->', value[0])
     # get user choice
     choice = input("input:")
+    
     # validate choice and run
     # execute selection
     # convert to number
     try:
         choice = int(choice)
+      
+        
+          
         if choice == 0:
             # stop
             print("you have left the program! thank you!")
+            exit()
             return
+            
         try:
             # try as function
             action = prompts.get(choice)[1]
+            
             action()
+            
+            
         except TypeError:
             try:  # try as playground style
+                
                 exec(open(action).read())
+                
+                
+     
+                #python_menu_challenges/ship.ship()
+                
+          
             except FileNotFoundError:
                 print(f"File not found!: {action}")
             # end function try
