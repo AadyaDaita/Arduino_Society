@@ -4,7 +4,7 @@
 *click on the link above to be directed to the replit, which is containing the code (too long to paste here). below are screenshots of the menu.*  
 
 ### WEEK 1
-![image](https://user-images.githubusercontent.com/89221238/159208018-28f6987f-7bc2-46e7-8363-7dd856bf033b.png)
+![image](https://user-images.githubusercontent.com/89221238/159341594-7326c90f-838a-402a-a60b-0f0427a7075b.png)
 ![image](https://user-images.githubusercontent.com/89221238/159337793-d131e109-61dc-4b24-b455-1715cf168d04.png)
 
 ### WEEK 0
