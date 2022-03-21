@@ -39,6 +39,14 @@ def tester():
     print()
 
 #for loop
+#Python For Loops
+#A for loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).
+#This is less like the for keyword in other programming languages, and works more like an iterator method as found in other object-orientated programming languages. With the for loop we can execute a set of statements, once for each item in a list, tuple, set etc.
+#The range() Function:
+#To loop through a set of code a specified number of times, we can use the range() function,
+#The range() function returns a sequence of numbers, starting from 0 by default, and increments by 1 (by default), and ends at a specified number.
+
+    
   def for_loop():
     for n in range(3):
       print_data(n)
@@ -47,6 +55,7 @@ def tester():
   for_loop()
   
  #while loop 
+  #With the while loop we can execute a set of statements as long as a condition is true or false.
   def while_loop():
     n = 0
     while n < 3:
@@ -57,6 +66,9 @@ def tester():
   while_loop()
 
 #recursive loop
+#Recursion means a defined function can call itself.
+#The developer should be very careful with recursion as it can be quite easy to slip into writing a function which never terminates, or one that uses excess amounts of memory or processor power. There must be a termination/exit condition that allows the function to exit without calling itself. This condition allows the recursion to stop - that is, without it the function would call itself over and over again, resulting in an error. However, when written correctly recursion can be a very efficient and mathematically-elegant approach to programming.
+  
   def recursive_loop(n):
     if n < len(InfoDb):
       print_data(n)
@@ -70,17 +82,15 @@ def tester():
 
 tester()
 
-"""
-MY PRINTER LOGIC W/O FUNCTIONS
+
+#MY PRINTER LOGIC W/O FUNCTIONS
 
 
-input_person = int(input("which person...0,1 or 2?"))
-input_cat = int(input("what category do you want...0,1,2,3,4,5?"))
-input_n = int(input("n = "))
-if input_cat == 4:
-  x = InfoDb[input_person]["Owns_Cars"][input_n]
-  print(x)
+#input_person = int(input("which person...0,1 or 2?"))
+#input_cat = int(input("what category do you want...0,1,2,3,4,5?"))
+#input_n = int(input("n = "))
+#if input_cat == 4:
+#  x = InfoDb[input_person]["Owns_Cars"][input_n]
+#  print(x)
 
 
-
-"""

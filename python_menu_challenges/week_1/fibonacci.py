@@ -4,7 +4,8 @@
 
 #Instructions:
 #See hack 3 above, Fibonacci(For Fibonacci(n) print complete list 0 - n and not just the nth term)
-#I even added the sum of the first n terms.
+
+#I even added the sum of the first n terms!!
 def run_fib_sum():
 
   list = []
