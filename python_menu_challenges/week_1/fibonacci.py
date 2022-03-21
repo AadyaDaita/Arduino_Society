@@ -1,6 +1,10 @@
 #WHAT IS THE FIBONACCI'S SEQUENCE
 # 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ...
 
+
+#Instructions:
+#See hack 3 above, Fibonacci(For Fibonacci(n) print complete list 0 - n and not just the nth term)
+#I even added the sum of the first n terms.
 def run_fib_sum():
 
   list = []
@@ -19,9 +23,10 @@ def run_fib_sum():
     sum = 0
     for i in range(n):
       sum += list[i]
-    print(sum)
+    print("the sum of the first n numbers is", sum)
     
   n = int(input("n = "))
   get_sum(n)
+  print("the sequence is", list)
 
 run_fib_sum()

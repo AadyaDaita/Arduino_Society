@@ -1,4 +1,5 @@
-
+#See hack 1 above, InfoDB lists
+#See hack 2 above, InfoDB loops
 def tester():
   # List with dictionary records placed in a list
   InfoDb = []
@@ -37,7 +38,7 @@ def tester():
     print(", ".join(InfoDb[n]["Owns_Cars"]))  # join allows printing a string list with separator
     print()
 
-
+#for loop
   def for_loop():
     for n in range(3):
       print_data(n)
@@ -45,7 +46,7 @@ def tester():
   print("For loop")
   for_loop()
   
-  
+ #while loop 
   def while_loop():
     n = 0
     while n < 3:
@@ -55,7 +56,7 @@ def tester():
   print("While loop")
   while_loop()
 
-
+#recursive loop
   def recursive_loop(n):
     if n < len(InfoDb):
       print_data(n)
