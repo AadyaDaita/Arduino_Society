@@ -7,35 +7,35 @@ def tester():
   InfoDb.append({  
        "FirstName": "Aadya",  
        "LastName": "Daita",  
-       "DOB": "December 30",  
-       "Residence": "San Diego",  
-       "Email": "aadyadaita@gmail.com",  
-       "Owns_Cars":["Tesla Model E","Tesla Model Y","Tesla Model X"]  
+       "Favorite Number": "30",  
+       "Age": "15",  
+       "Favorite Color": "green",  
+       "Favorite_subjects":["CSP", "Math", "Chem", "History"]  
       })
   
   InfoDb.append({  
                  "FirstName": "John",  
                  "LastName": "Mortensen",  
-                 "DOB": "October 21",  
-                 "Residence": "San Diego",  
-                 "Email": "jmortensen@powayusd.com",  
-                 "Owns_Cars":["2015 Fusion","2011 Ranger","2003 Excursion","1997 F-350", "1969 Cadillac"]  
+                 "Favorite Number": "21",  
+                 "Age": "30",  
+                 "Favorite Color": "blue",  
+                 "Favorite_subjects":["Math", "Science", "English", "Art"]  
                 })  
   
   InfoDb.append({  
                  "FirstName": "Sunny",  
                  "LastName": "Naidu",  
-                 "DOB": "August 2",  
-                 "Residence": "San Diego",  
-                 "Email": "snaidu@powayusd.com",  
-                 "Owns_Cars":["A","B","C"]  
+                 "Favorite Number": "2",  
+                 "Age": "30",  
+                 "Favorite Color": "purple",  
+                 "Favorite_subjects":["A","B","C"]  
                 })  
 
   
   def print_data(n):
     print(InfoDb[n]["FirstName"], InfoDb[n]["LastName"])  # using comma puts space between values
     print("\t", "Cars: ", end="")  # \t is a tab indent, end="" make sure no return occurs
-    print(", ".join(InfoDb[n]["Owns_Cars"]))  # join allows printing a string list with separator
+    print(", ".join(InfoDb[n]["Favorite_subjects"]))  # join allows printing a string list with separator
     print()
 
 #for loop
