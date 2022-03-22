@@ -11,3 +11,6 @@
 ![image](https://user-images.githubusercontent.com/89221238/158467347-98ba8c70-03a2-48ad-883d-8244814cefbf.png)
 ![image](https://user-images.githubusercontent.com/89221238/158467510-7064a527-d45d-4650-a2c7-0ef6c025c210.png)
 ![image](https://user-images.githubusercontent.com/89221238/158467675-43baac39-791a-442f-af4f-8ce941ece28c.png)
+
+
+<iframe frameborder="0" width="100%" height="800px" src="https://replit.com/@AadyanjaliDaita/indivrepo?lite=true#menu.py"></iframe>
