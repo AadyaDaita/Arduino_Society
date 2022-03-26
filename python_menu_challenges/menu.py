@@ -12,16 +12,24 @@ main_menu = []
 
 # Submenu list of [Prompt, Action]
 # Works similarly to main_menu
-sub_menu1 = [
-    ["Swap", "python_menu_challenges/week_0/swap.py"],
+data_sub_menu = [
     ["Keypad", "python_menu_challenges/week_0/keypad.py"],
-    ["Christmas", "python_menu_challenges/week_0/christmastree.py"],
-    ["Ship", "python_menu_challenges/week_0/ship.py"]
+    ["Lists", "python_menu_challenges/week_1/lists_and_loops.py"]
 ]
 
-sub_menu2 = [
-    ["Lists", "python_menu_challenges/week_1/lists_and_loops.py"],
-    ["Fibonacci", "python_menu_challenges/week_1/fibonacci.py"]
+math_sub_menu = [
+    
+    ["Swap", "python_menu_challenges/week_0/swap.py"],
+    ["Fibonacci", "python_menu_challenges/week_1/fibonacci.py"],
+    ["Factorials", "python_menu_challenges/week_2/factorial.py"]
+  ]
+
+patterns_sub_menu = [
+    ["Christmas", "python_menu_challenges/week_0/christmastree.py"],
+    ["Ship", "python_menu_challenges/week_0/ship.py"],
+    
+  
+   
   ]
 # Menu banner is typically defined by menu owner
 border = "=" * 25
@@ -33,19 +41,24 @@ banner = f"\n{border}\nplease pick one\n{border}"
 def menu():
     title = "function menu" + banner
     menu_list = main_menu.copy()
-    menu_list.append(["Week 0", submenu1])
-    menu_list.append(["Week 1", submenu2])
+    menu_list.append(["Data", data])
+    menu_list.append(["Math", math])
+    menu_list.append(["Patterns", pattern])
     buildMenu(title, menu_list)
 # def submenu
 # using sub menu list above:
 # sub_menu works similarly to menu()
-def submenu1():
+def data():
     title = "function submenu" + banner
-    buildMenu(title, sub_menu1)
+    buildMenu(title, data_sub_menu)
 
-def submenu2():
+def math():
     title = "Function Submenu" + banner
-    buildMenu(title, sub_menu2)
+    buildMenu(title, math_sub_menu)
+
+def pattern():
+    title = "Function Submenu" + banner
+    buildMenu(title, patterns_sub_menu)
   
 def buildMenu(banner, options):
     # header for menu
