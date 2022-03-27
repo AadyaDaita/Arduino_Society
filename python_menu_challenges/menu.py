@@ -13,15 +13,16 @@ main_menu = []
 # Submenu list of [Prompt, Action]
 # Works similarly to main_menu
 data_sub_menu = [
+    ["Swap", "python_menu_challenges/week_0/swap.py"],
     ["Keypad", "python_menu_challenges/week_0/keypad.py"],
     ["Lists", "python_menu_challenges/week_1/lists_and_loops.py"]
 ]
 
 math_sub_menu = [
-    
-    ["Swap", "python_menu_challenges/week_0/swap.py"],
     ["Fibonacci", "python_menu_challenges/week_1/fibonacci.py"],
-    ["Factorials", "python_menu_challenges/week_2/factorial.py"]
+    ["Factorials", "python_menu_challenges/week_2/factorial.py"],
+    ["Factors", "python_menu_challenges/week_2/factors_num.py"],
+    ["Palidrome", "python_menu_challenges/week_2/palidrome.py"]
   ]
 
 patterns_sub_menu = [
