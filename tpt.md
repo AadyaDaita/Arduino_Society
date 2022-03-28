@@ -66,6 +66,18 @@ _TPT Crowdsourcing_
 - Open-source - programs that are free on the internet
 - Open Access - online research output free of any and all restrictions on access and free of restrictions on access and free of restrictions on use, such as copyright or license restrictions. 
 
+_5.5 GitHub Actions_
+- Creative Commons Zero v1.0 Universal
+   - No Copyright
+   - Dedicating work to public
+   - Work can be copied, repurposed, and distributed without seeking permission from the creator.
+- MIT License
+   - Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+   - Open Source GPL License
+   - Cannot distribute closed source versions.
+- I will be using the Open Source MIT license allows users to make modifications to my work, as well as requiring preservation of copyright and license notices.
+- For our team repo, we are choosing the Open Source MIT license, we will allow using the code from GitHub to be used freely only to make and distribute closed source versions.
+
 **Safe Computing (5.6)**
 
 _5.6.1_
@@ -88,3 +100,14 @@ _5.6.3_
 - Phishing: An attempt to trick a user into providing personal information. 
 - Keyloggers: records every keystroke made by a user in order to gain fraudulent access to passwords or other confidential information. 
 - Rogue Access Point: A wireless network that can give unauthorized access to secure networks. When data is being sent in a network, the hacker could steal in on the way there, before it reaches the secure location. 
+
+
+_GitHub Actions_
+- I have seen Personal Identifiable Information (PII) in the CSP nighthawkcodingsociety website which links to twitter, github, and other information
+- I am very safe on the internet and never give my PII to strangers, but I know that if you try and look you can find some of my personal information. But other than my name, birthday, and residence, I don’t think the internet has access to my PII.
+- Good passwords are long with a mix of upper and lower case letters, numbers, and symbols. Bad Passwords have ties to your personal information (family names, dog name, birthday) and dictionary words.
+- 2 Factor Authentication is extremely prevalent in our soctiety today. Emais, texts, and software-based authenticators like Google Authenticator are great ways to assist with authentication
+- Unlike symmetric encryption, which uses the same secret key to encrypt and decrypt sensitive information, asymmetric encryption, also known as public-key cryptography or public-key encryption, uses mathematically linked public- and private-key pairs to encrypt and decrypt senders’ and recipients’ sensitive data.
+- When deploying we initally used HTTP which did not have encryption. But then we used HTTPS which is HTTP with encryption. The difference between the two protocols is that HTTPS uses TLS (SSL) to encrypt normal HTTP requests and responses.
+- Deceptive phishing is the most common type of phishing scam. In this ploy, fraudsters impersonate a legitimate company to steal people’s personal data or login credentials. Those emails use threats and a sense of urgency to scare users into doing what the attackers want.
+
