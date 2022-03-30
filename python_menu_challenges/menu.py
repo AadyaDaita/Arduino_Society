@@ -8,7 +8,9 @@
 # 2. function references will be executed directly file.function()
 from subprocess import call
 
-main_menu = []
+main_menu = [
+    
+]
 
 # Submenu list of [Prompt, Action]
 # Works similarly to main_menu
@@ -32,6 +34,17 @@ patterns_sub_menu = [
   
    
   ]
+
+suprise_sub_menu = [
+    ["Alphabet pyramid","python_menu_challenges/week_2/suprise.py"],
+    ["Diamond","python_menu_challenges/week_2/diamond.py"],
+    ["Star Pattern","python_menu_challenges/week_2/stars.py"],
+  
+   
+  ]
+
+
+
 # Menu banner is typically defined by menu owner
 border = "=" * 25
 banner = f"\n{border}\nplease pick one\n{border}"
@@ -45,6 +58,7 @@ def menu():
     menu_list.append(["Data", data])
     menu_list.append(["Math", math])
     menu_list.append(["Patterns", pattern])
+    menu_list.append(["Surprise", suprise])
     buildMenu(title, menu_list)
 # def submenu
 # using sub menu list above:
@@ -60,6 +74,12 @@ def math():
 def pattern():
     title = "Function Submenu" + banner
     buildMenu(title, patterns_sub_menu)
+
+def suprise():
+    title = "Function Submenu" + banner
+    buildMenu(title, suprise_sub_menu)
+
+
   
 def buildMenu(banner, options):
     # header for menu
