@@ -24,7 +24,7 @@ math_sub_menu = [
     ["Fibonacci", "python_menu_challenges/week_1/fibonacci.py"],
     ["Factorials", "python_menu_challenges/week_2/factorial.py"],
     ["Factors", "python_menu_challenges/week_2/factors_num.py"],
-    ["Palidrome", "python_menu_challenges/week_2/palidrome.py"]
+    ["Palindrome", "python_menu_challenges/week_2/palidrome.py"]
   ]
 
 patterns_sub_menu = [
