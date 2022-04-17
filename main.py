@@ -7,7 +7,7 @@ from __init__ import app
 # connects default URL to render index.html
 @app.route('/')
 def index():
-    return render_template("index.html")
+    return render_template("tic_tac_toe_create_task.html")
 
 if __name__ == "__main__":
     app.run(debug=True)
