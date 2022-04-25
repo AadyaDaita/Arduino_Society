@@ -1,7 +1,6 @@
 {% include navigation.html %}
 
 ### Final Review Test Corrections
-{% include navigation.html %}
 
 #### Final 1: 48/50 and corrections:
 ![image](https://user-images.githubusercontent.com/89221238/164802736-ded16f98-9f5b-4de9-9033-1df22e547d72.png)
