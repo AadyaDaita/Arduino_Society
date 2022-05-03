@@ -6,7 +6,7 @@
 ### [WEEK 3 REVIEW TICKET](https://github.com/AadyaDaita/indiv_repo/issues/7)
 ### [WEEK 4 REVIEW TICKET](https://github.com/AadyaDaita/indiv_repo/issues/8)
 ### [WEEK 5 REVIEW TICKET](https://github.com/AadyaDaita/indiv_repo/issues/10)
-
+### [WEEK 6 REVIEW TICKET](https://github.com/AadyaDaita/indiv_repo/issues/11)
 
 | Week 0 | Week 1   | Week 2 |
 | ------ | ---------|-------|
