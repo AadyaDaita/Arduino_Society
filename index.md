@@ -8,6 +8,11 @@
 ### [WEEK 5 REVIEW TICKET](https://github.com/AadyaDaita/indiv_repo/issues/10)
 ### [WEEK 6 REVIEW TICKET](https://github.com/AadyaDaita/indiv_repo/issues/11)
 ### [WEEK 7 REVIEW TICKET](https://github.com/AadyaDaita/indiv_repo/issues/12)
+### [WEEK 8 REVIEW TICKET](https://github.com/sarayu-pr11/saas/issues/17)
+### [WEEK 9 REVIEW TICKET](https://github.com/sarayu-pr11/saas/issues/22)
+### [WEEK 10 REVIEW TICKET](https://github.com/sarayu-pr11/saas/issues/23)
+
+
 
 
 | Week 0 | Week 1   | Week 2 |
