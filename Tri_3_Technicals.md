@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 I have two technicals:
 - The two database tables
   - The first table is about teachers, where it is a list of the teachers, who cna log in
