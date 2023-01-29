@@ -1,6 +1,10 @@
 # Welcome to the official Arduino Society GitHub page
 
-Here are some challenges I did over the summer
+![image](https://user-images.githubusercontent.com/89223650/161322195-ba46077a-318e-4828-a1fd-cc9c76668c31.png)![image](https://user-images.githubusercontent.com/89223650/161321903-ea08b5ec-d031-4f8d-8f8e-95f92046134e.png)
+![image](https://user-images.githubusercontent.com/89223650/161322410-996c832b-c0b2-4569-85fc-b81402644fc2.png)
+
+
+Here are some challenges I did during summer workshops:
 | Week 0 | Week 1   | Week 2 |
 | ------ | ---------|-------|
 | [Menu](https://replit.com/@AadyanjaliDaita/indivrepo#python_menu_challenges/menu.py)   | [Favorite Lists](https://replit.com/@AadyanjaliDaita/indivrepo#python_menu_challenges/week_1/lists_and_loops.py)| [Factorial Class](https://replit.com/@AadyanjaliDaita/indivrepo#python_menu_challenges/week_2/factorial.py)|
@@ -8,9 +12,6 @@ Here are some challenges I did over the summer
 |[Matrix](https://replit.com/@AadyanjaliDaita/indivrepo#python_menu_challenges/week_0/keypad.py)  |          |  [Palidrome (attempted)](https://replit.com/@AadyanjaliDaita/indivrepo#python_menu_challenges/week_2/palidrome.py)|
 |[Tree](https://replit.com/@AadyanjaliDaita/indivrepo#python_menu_challenges/week_0/christmastree.py)    |          |            |
 |[Ship](https://replit.com/@AadyanjaliDaita/indivrepo#python_menu_challenges/week_0/ship.py)    |          |          |
-
-![image](https://user-images.githubusercontent.com/89223650/161322195-ba46077a-318e-4828-a1fd-cc9c76668c31.png)![image](https://user-images.githubusercontent.com/89223650/161321903-ea08b5ec-d031-4f8d-8f8e-95f92046134e.png)
-![image](https://user-images.githubusercontent.com/89223650/161322410-996c832b-c0b2-4569-85fc-b81402644fc2.png)
 
 
 
