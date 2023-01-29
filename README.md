@@ -1,6 +1,6 @@
 # Welcome to the official Arduino Society GitHub page
 
-Here are sum challenges I did over the summer
+Here are some challenges I did over the summer
 | Week 0 | Week 1   | Week 2 |
 | ------ | ---------|-------|
 | [Menu](https://replit.com/@AadyanjaliDaita/indivrepo#python_menu_challenges/menu.py)   | [Favorite Lists](https://replit.com/@AadyanjaliDaita/indivrepo#python_menu_challenges/week_1/lists_and_loops.py)| [Factorial Class](https://replit.com/@AadyanjaliDaita/indivrepo#python_menu_challenges/week_2/factorial.py)|
